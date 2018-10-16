@@ -5,4 +5,5 @@ def my_each(array)
     block.push(i) 
     i += 1 
   end
+  block
 end
