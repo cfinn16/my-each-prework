@@ -1,5 +1,5 @@
 def my_each(array)
-  if block_given? = true
+  if block_given?
     i = 0 
     block = []
     while i < array.length 
